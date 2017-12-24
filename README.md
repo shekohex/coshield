@@ -4,6 +4,8 @@
 # COShield
 
 Simple Conquer Online C++ Anti-Cheat
+A lot of this Project , about 99% of it , not coded By Me.
+it's based in CSV3 open Project.
 
 ## Getting Started
 
